@@ -1,9 +1,13 @@
 {
-  "name": "number-guessing-game",
-  "version": "1.0.0",
+  "name": "maq2007-number-guessing-game",
+  "version": "2.0.1",
   "description": "A cli based number guessing game",
   "main": "index.js",
   "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
