@@ -1,6 +1,6 @@
 {
   "name": "maq2007-number-guessing-game",
-  "version": "2.0.1",
+  "version": "2.1.1",
   "description": "A cli based number guessing game",
   "main": "index.js",
   "type": "module",
